@@ -7,3 +7,5 @@ def power(base, p):
 result = power(4,6)
 
 print(result%3)
+
+#added a new line
